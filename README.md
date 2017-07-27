@@ -85,3 +85,8 @@ Homepage → Navigation bar → Click “About”
 
 
 ## All above are the instructions of our final project iTravel. Thank you!
+
+## MVC pattern in nodejs
+* The router(in the router dir) functioned as a controller(C). It receive the request from browser, communicate with dbutil module(in the data dir) that support CRUD opeartioans.
+* The data(int the data dir) functioned as a model(M). It implemented the low level database operations with MongoDB that support CRUD operations. 
+* The view(int the view dir) functioned as a view(V). It implemented how data is displayed in browser. It applied the handlebars template engine.
