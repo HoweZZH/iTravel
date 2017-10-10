@@ -1,0 +1,2 @@
+定义mongodb的document schema
+project seed
