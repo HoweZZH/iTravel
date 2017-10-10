@@ -1,8 +1,8 @@
 "use strict";
 
 /*
- Created by Qingzheng on 2016/12/01
- Name: Qingzheng Liu
+ Created by Qingzheng and Zihao Zhao on 2016/12/01
+ Name: Qingzheng Liu, Zihao Zhao
  */
 
 const mongoCollections = require("../config/mongoCollections");
