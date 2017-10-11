@@ -1,2 +1,3 @@
 定义mongodb的document schema
-project seed
+
+初始化project所需要的数据
